@@ -1,0 +1,14 @@
+package pl.sda.javalon4.kalisz.dzien2;
+
+public class ZadanieDomowe5 {
+
+/* zmienne logiczne (boolean) które noszą nazwe:    jest_cieplo    wieje_wiatr    swieci_slonce    oraz zmienne:    ubieram_sie_cieplo - jesli nie jest cieplo lub wieje wiatr
+   biore_parasol - jesli nie swieci slonce ale nie wieje wiatr    ubieram_kurtke - jesli wieje, nie ma slonca i nie jest cieplo6.
+
+ */
+
+}
+
+
+
+}
